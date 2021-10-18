@@ -1,0 +1,15 @@
+.navbar{
+    padding: 0 !important;
+}
+.navbar a{
+color: white !important;
+padding: 15px;
+margin: 0 10px;
+}
+.nav-login {
+   
+}
+.navbar a:hover{
+    background-color: turquoise;
+    color: white;
+}
