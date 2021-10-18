@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "name": "CANCER SURGERY",
+        "img": "./Images/Spesialized/CANCER SURGERY.png",
+        "totalDr": "5",
+        "departmentHead": "Benny Greene",
+        "description": "Cancer surgery removes the tumor and nearby tissue during an operation. A doctor who treats cancer with surgery is called a surgical oncologist. Surgery is the oldest type of cancer treatment. And it is still effective for many types of cancer today.",
+        "reletedConsultant1": {
+            "name": "Benny Greene",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Department Head",
+            "medicalHistory": "",
+            "id": 101,
+            "img": "./Images/Doctors/01.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 211
+        },
+        "reletedConsultant2": {
+            "name": "Marsha Caldwell",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Senior Consultant",
+            "medicalHistory": "",
+            "id": 102,
+            "img": "./Images/Doctors/02.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 212
+        },
+        "reletedConsultant3": {
+            "name": "Amanda Wise",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 103,
+            "img": "./Images/Doctors/03.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 213
+        },
+        "reletedConsultant4": {
+            "name": "Marie Johnston",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 104,
+            "img": "./Images/Doctors/04.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 214
+        }
+    },
+    {
+        "id": 2,
+        "name": "CARDIOLOGY",
+        "img": "./Images/Spesialized/CARDIOLOGY.jpg",
+        "totalDr": "5",
+        "departmentHead": "Wilson Valdez",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine.",
+        "reletedConsultant1": {
+            "name": "Wilson Valdez",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Department Head",
+            "medicalHistory": "",
+            "id": 201,
+            "img": "./Images/Doctors/05.jpeg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 215
+        },
+        "reletedConsultant2": {
+            "name": "Audrey Douglas",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Senior Consultant",
+            "medicalHistory": "",
+            "id": 202,
+            "img": "./Images/Doctors/06.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 216
+        },
+        "reletedConsultant3": {
+            "name": "Cindy Green",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 203,
+            "img": "./Images/Doctors/07.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 217
+        },
+        "reletedConsultant4": {
+            "name": "Candice Lewis",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 204,
+            "img": "./Images/Doctors/08.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 218
+        }
+    },
+    {
+        "id": 3,
+        "name": "COVID WING",
+        "img": "./Images/Spesialized/COVID WING.jpg",
+        "totalDr": "5",
+        "departmentHead": "Alice Obrien",
+        "description": "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment",
+        "reletedConsultant1": {
+            "name": "Alice Obrien",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Department Head",
+            "medicalHistory": "",
+            "id": 301,
+            "img": "./Images/Doctors/09.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 207
+        },
+        "reletedConsultant2": {
+            "name": "Ruben Gutierrez",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Senior Consultant",
+            "medicalHistory": "",
+            "id": 302,
+            "img": "./Images/Doctors/10.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 206
+        },
+        "reletedConsultant3": {
+            "name": "Diana Butle",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 303,
+            "img": "./Images/Doctors/11.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 326
+        },
+        "reletedConsultant4": {
+            "name": "Rolando Moody",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 304,
+            "img": "./Images/Doctors/12.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 325
+        }
+    },
+    {
+        "id": 4,
+        "name": "DENTISTRY",
+        "img": "./Images/Spesialized/DENTISTRY.jpg",
+        "totalDr": "5",
+        "departmentHead": "Annette Norris",
+        "description": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral",
+        "reletedConsultant1": {
+            "name": "Annette Norris",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Department Head",
+            "medicalHistory": "",
+            "id": 401,
+            "img": "./Images/Doctors/13.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 324
+        },
+        "reletedConsultant2": {
+            "name": "Roger Russell",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 402,
+            "img": "./Images/Doctors/14.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 323
+        },
+        "reletedConsultant3": {
+            "name": "Lola Wheeler",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Senior Consultant",
+            "medicalHistory": "",
+            "id": 403,
+            "img": "./Images/Doctors/15.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 322
+        },
+        "reletedConsultant4": {
+            "name": "Melba Becker",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 404,
+            "img": "./Images/Doctors/16.jpeg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 321
+        }
+    },
+    {
+        "id": 5,
+        "name": "DIABETES & ENDOCRINOLOGY",
+        "img": "./Images/Spesialized/DIABETES & ENDOCRINOLOGY.jpg",
+        "totalDr": "5",
+        "departmentHead": "Milton Reyes",
+        "description": "Diabetes is a chronic (long-lasting) health condition that affects how your body turns food into energy. Most of the food you eat is broken down into sugar (also called glucose) and released into your bloodstream",
+        "reletedConsultant1": {
+            "name": "Milton Reyes",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Department Head",
+            "medicalHistory": "",
+            "id": 501,
+            "img": "./Images/Doctors/17.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 320
+        },
+        "reletedConsultant2": {
+            "name": "Leticia Cole",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Senior Consultant",
+            "medicalHistory": "",
+            "id": 502,
+            "img": "./Images/Doctors/18.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 319
+        },
+        "reletedConsultant3": {
+            "name": "Robin Andrews",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 503,
+            "img": "./Images/Doctors/19.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 318
+        },
+        "reletedConsultant4": {
+            "name": "Delores Lawson",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 504,
+            "img": "./Images/Doctors/20.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 317
+        }
+    },
+    {
+        "id": 6,
+        "name": "DIETETICS & NUTRITION",
+        "img": "./Images/Spesialized/DIETETICS & NUTRITION.jpg",
+        "totalDr": "5",
+        "departmentHead": "Jodi Bennett",
+        "description": "The food we eat has a significant impact on our health, according to a number of scientific studies. Changes in diet can help prevent or control many health problems, including obesity, diabetes and certain risk factors for cancer and heart disease.",
+        "reletedConsultant1": {
+            "name": "Jodi Bennett",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Department Head",
+            "medicalHistory": "",
+            "id": 601,
+            "img": "./Images/Doctors/21.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 316
+        },
+        "reletedConsultant2": {
+            "name": "Dorothy Lane",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Senior Consultant",
+            "medicalHistory": "",
+            "id": 602,
+            "img": "./Images/Doctors/22.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 315
+        },
+        "reletedConsultant3": {
+            "name": "Crystal Mann",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 603,
+            "img": "./Images/Doctors/23.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 314
+        },
+        "reletedConsultant4": {
+            "name": "Blake Fitzgerald",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 604,
+            "img": "./Images/Doctors/24.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 313
+        }
+    },
+    {
+        "id": 7,
+        "name": "EMERGENCY",
+        "img": "./Images/Spesialized/emergency.jpg",
+        "totalDr": "5",
+        "departmentHead": "Pamela Todd",
+        "description": "Emergency medicine is the medical speciality concerned with the care of illnesses or injuries requiring immediate medical attention. Emergency physicians continuously learn to care for unscheduled and undifferentiated patients of all ages",
+        "reletedConsultant1": {
+            "name": "Pamela Todd",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Department Head",
+            "medicalHistory": "",
+            "id": 701,
+            "img": "./Images/Doctors/25.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 312
+        },
+        "reletedConsultant2": {
+            "name": "Dan Fisher",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Senior Consultant",
+            "medicalHistory": "",
+            "id": 702,
+            "img": "./Images/Doctors/26.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 311
+        },
+        "reletedConsultant3": {
+            "name": "Vanessa Willis",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 703,
+            "img": "./Images/Doctors/27.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 310
+        },
+        "reletedConsultant4": {
+            "name": "Beatrice Jenkins",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 704,
+            "img": "./Images/Doctors/28.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 309
+        }
+    },
+    {
+        "id": 8,
+        "name": "OPHTHALMOLOGY",
+        "img": "./Images/Spesialized/OPHTHALMOLOGY.jpg",
+        "totalDr": "5",
+        "departmentHead": "Sergio Mack",
+        "description": "Ophthalmology is the study of medical conditions relating to the eye. Ophthalmologists are doctors who specialize in the medical and surgical treatment of this organ.",
+        "reletedConsultant1": {
+            "name": "Sergio Mack",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Department Head",
+            "medicalHistory": "",
+            "id": 801,
+            "img": "./Images/Doctors/29.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 308
+        },
+        "reletedConsultant2": {
+            "name": "Shari Riley",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Senior Consultant",
+            "medicalHistory": "",
+            "id": 802,
+            "img": "./Images/Doctors/30.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 307
+        },
+        "reletedConsultant3": {
+            "name": "Brendan Pratt",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 803,
+            "img": "./Images/Doctors/31.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 305
+        },
+        "reletedConsultant4": {
+            "name": "Darin Bradley",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 804,
+            "img": "./Images/Doctors/32.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 305
+        }
+    },
+    {
+        "id": 9,
+        "name": "PLASTIC SURGERY",
+        "img": "./Images/Spesialized/PLASTIC SURGERY.jpg",
+        "totalDr": "5",
+        "departmentHead": "Sheldon Banks",
+        "description": "Plastic surgery is a surgical specialty involving the restoration, reconstruction, or alteration of the human body. It can be divided into two main categories: reconstructive surgery and cosmetic surgery. Reconstructive surgery includes craniofacial surgery, hand surgery, microsurgery, and the treatment of burns.",
+        "reletedConsultant1": {
+            "name": "Malcolm Sharp",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Senior Consultant",
+            "medicalHistory": "",
+            "id": 901,
+            "img": "./Images/Doctors/33.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 427
+        },
+        "reletedConsultant2": {
+            "name": "Sheldon Banks",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Department Head",
+            "medicalHistory": "",
+            "id": 902,
+            "img": "./Images/Doctors/34.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 426
+        },
+        "reletedConsultant3": {
+            "name": "Earnest Hunt",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 903,
+            "img": "./Images/Doctors/35.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 425
+        },
+        "reletedConsultant4": {
+            "name": "Franklin Day",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 904,
+            "img": "./Images/Doctors/36.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 424
+        }
+    },
+    {
+        "id": 10,
+        "name": "ANESTHESIOLOGY",
+        "img": "./Images/Spesialized/ANESTHESIOLOGY.jpg",
+        "totalDr": "5",
+        "departmentHead": "Gregory Schmidt",
+        "description": "Anesthesiology is the medical specialty concerned with the total perioperative care of patients before, during and after surgery. It encompasses anesthesia, intensive care medicine, critical emergency medicine, and pain medicine. ",
+        "reletedConsultant1": {
+            "name": "Gregory Schmidt",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Department Head",
+            "medicalHistory": "",
+            "id": 1001,
+            "img": "./Images/Doctors/37.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 413
+        },
+        "reletedConsultant2": {
+            "name": "Gene Dunn",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Senior Consultant",
+            "medicalHistory": "",
+            "id": 1002,
+            "img": "./Images/Doctors/38.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 412
+        },
+        "reletedConsultant3": {
+            "name": "Margarita Hansen",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 1003,
+            "img": "./Images/Doctors/39.jpg",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 411
+        },
+        "reletedConsultant4": {
+            "name": "Jeff White",
+            "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+            "position": "Consultant",
+            "medicalHistory": "",
+            "id": 1004,
+            "img": "./Images/Doctors/40.png",
+            "visitTime": "5 PM-10 PM Execpt Friday",
+            "chamber": 410
+        }
+    }
+]
