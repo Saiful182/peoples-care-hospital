@@ -5,10 +5,9 @@
 color: white !important;
 padding: 15px;
 margin: 0 10px;
+font-size: 20px;
 }
-.nav-login {
-   
-}
+
 .navbar a:hover{
     background-color: turquoise;
     color: white;

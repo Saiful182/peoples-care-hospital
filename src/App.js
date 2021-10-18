@@ -3,13 +3,14 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import './App.css';
 import PageNotFound from './component/404Page/PageNotFound';
 import AboutUs from './component/AboutUs/AboutUs';
-import Department from './component/Departments/Department';
+import Departments from './component/Departments/Departments';
 import Footer from './component/Footer/Footer';
-import Gallary from './component/Gallery/Gallary';
+
 import Header from './component/Header/Header';
 import Home from './component/Home/Home';
 import LogIn from './component/LogIn/LogIn';
 import Services from './component/Services/Services';
+import Consultant from './component/Consultant/Consultant';
 
 function App() {
   return (
@@ -24,12 +25,12 @@ function App() {
             <Home></Home>
           </Route>
           <Route exact path="/departments">
-            <Department></Department>
+            <Departments></Departments>
           </Route>
           <Route exact path="/services">
             <Services></Services>
-          </Route><Route exact path="/gallary">
-            <Gallary></Gallary>
+          </Route><Route exact path="/consultant">
+            <Consultant></Consultant>
           </Route><Route exact path="/about">
             <AboutUs></AboutUs>
           </Route>

@@ -10,13 +10,13 @@ const Header = () => {
                 <Container className="navbar">
                     <Nav>
 
-                        <img src={logo} style={{ margin: "10px", height: "30px", width: "30px" }} alt="" />
+                        <img src={logo} style={{ margin: "10px", height: "40px", width: "40px" }} alt="" />
                         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                         <Navbar.Collapse id="responsive-navbar-nav">
                             <NavLink href="/">Home</NavLink>
                             <NavLink href="/departments">Departments</NavLink>
                             <NavLink href="/services">Services</NavLink>
-                            <NavLink href="/gallary">Gallary</NavLink>
+                            <NavLink href="/consultant">Consultants</NavLink>
                             <NavLink href="/about">About</NavLink>
                         </Navbar.Collapse>
                     </Nav>
