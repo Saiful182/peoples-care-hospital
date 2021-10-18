@@ -1,0 +1,16 @@
+.home-service-container{
+  margin: 20px 0;
+  padding: 20px;
+}
+.services-link{
+    margin:20px 0;
+    text-align: center;
+}
+.services-link a {
+    padding: 10px;
+    text-decoration: none;
+    color:black;
+    background-color: #e4e8e9;
+    border: 1px solid rgb(204, 201, 198);
+    border-radius: 10px;
+}
