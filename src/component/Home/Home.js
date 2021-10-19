@@ -57,7 +57,7 @@ const Home = () => {
                     }
                 </Row>
 
-                <h4 className="facilities-link "> <Link className="btn btn-outline-info" to="/consultant">See More Doctors</Link></h4>
+                <h4 className="facilities-link "> <Link className="btn btn-outline-info" to="/consultants">See More Doctors</Link></h4>
             </div>
         </div>
     );
