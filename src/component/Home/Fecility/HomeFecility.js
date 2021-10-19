@@ -1,10 +1,10 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
-import './HomeService.css'
+import './HomeFecility.css'
 
 
-const HomeService = (props) => {
-    let { id, name, img, Room, description, stuff } = props.service;
+const HomeFecility = (props) => {
+    let { id, name, img, Room, description, stuff } = props.fecility;
     console.log(name);
     return (
 
@@ -33,4 +33,4 @@ const HomeService = (props) => {
     );
 };
 
-export default HomeService;
+export default HomeFecility;

@@ -1,8 +1,9 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
+import './SixServices.css'
 
-const SixDepartment = (props) => {
-    let { name, img, totalDr, description, departmentHead } = props.department;
+const SixServices = (props) => {
+    let { name, img, totalDr, description, departmentHead } = props.service;
 
     return (
 
@@ -26,4 +27,4 @@ const SixDepartment = (props) => {
     );
 };
 
-export default SixDepartment;
+export default SixServices;

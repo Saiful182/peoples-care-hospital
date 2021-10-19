@@ -2,9 +2,8 @@ import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 
 const Service = (props) => {
-    const { name, id, img, description, stuff, Room } = props.service;
+    let { name, img, totalDr, description, departmentHead } = props.department;
     return (
-
 
         <Col>
             <Card>
@@ -12,21 +11,17 @@ const Service = (props) => {
                 <Card.Body>
                     <Card.Title>{name}</Card.Title>
                     <Card.Text>
-                        Room no: {Room}
+                        Department Head:  {departmentHead}
                     </Card.Text>
-
                     <Card.Text>
-                        No of stuff:{stuff}
+                        Availabe Doctor: {totalDr}
                     </Card.Text>
                     <Card.Text>
                         {description}
                     </Card.Text>
-
                 </Card.Body>
             </Card>
         </Col>
-
-
     );
 };
 

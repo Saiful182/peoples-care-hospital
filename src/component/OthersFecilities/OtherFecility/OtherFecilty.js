@@ -1,8 +1,8 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 
-const Department = (props) => {
-    let { name, img, totalDr, description, departmentHead } = props.department;
+const OtherFecility = (props) => {
+    const { name, id, img, description, stuff, Room } = props.fecility;
     return (
 
         <Col>
@@ -11,18 +11,22 @@ const Department = (props) => {
                 <Card.Body>
                     <Card.Title>{name}</Card.Title>
                     <Card.Text>
-                        Department Head:  {departmentHead}
+                        Room no: {Room}
                     </Card.Text>
+
                     <Card.Text>
-                        Availabe Doctor: {totalDr}
+                        No of stuff:{stuff}
                     </Card.Text>
                     <Card.Text>
                         {description}
                     </Card.Text>
+
                 </Card.Body>
             </Card>
         </Col>
+
+
     );
 };
 
-export default Department;
+export default OtherFecility;

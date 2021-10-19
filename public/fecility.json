@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "ChemoTherapy",
+        "img": "./Images/Services/01.jpg",
+        "Room": 202,
+        "description": "Our exclusive Chemotherapy Unit provides the most updated cancer management as per international guidelines. ",
+        "stuff": 8
+    },
+    {
+        "id": 2,
+        "name": "Diabetes Center",
+        "img": "./Images/Services/02.jpg",
+        "Room": 302,
+        "description": "The services offered at our hospital cover a wide range of topics including diabetes education, meal planning, diabetes medication, preventing complications, exercise and making adjustments for daily living. Program Options include: ",
+        "stuff": 15
+    },
+    {
+        "id": 3,
+        "name": "Day Care",
+        "img": "./Images/Services/03.jpg",
+        "Room": 104,
+        "description": "The Day Care Unit is a unique wing of United Hospital to help patients with specific need-based treatment in an out-patient basis. Patients in Day Care are those who undergo procedures not requiring overnight nursing care or stay in the hospital. ",
+        "stuff": 7
+    },
+    {
+        "id": 4,
+        "name": "ATM",
+        "img": "./Images/Services/04.jpg",
+        "Room": 101,
+        "description": "Dutch Bangla Bank Ltd (DBBL) & Brac Bank Ltd, ATM booths are available at Ground Floor (Lobby) beside OPD Pharmacy of our hospital ",
+        "stuff": 2
+    },
+    {
+        "id": 5,
+        "name": "BLOOD BANK",
+        "img": "./Images/Services/05.jpeg",
+        "Room": 106,
+        "description": "We have Government licensed blood bank established in 2006.  Located in the ground floor of this hospital, it aims to provide patients with the safest possible blood, equivalent to any international standard ",
+        "stuff": 10
+    },
+    {
+        "id": 6,
+        "name": "ACCIDENT & EMERGENCY",
+        "img": "./Images/Services/06.jpg",
+        "Room": 106,
+        "description": "The Accident and Emergency Department of our hospital is a 24-hour, full time section and it is the mirror of our hospital. It offers the highest degree of commitment to delivering quality and efficient emergency care. ",
+        "stuff": 10
+    },
+    {
+        "id": 7,
+        "name": "DOORSTEP SAMPLE COLLECTION PACKAGES AND HOME SAMPLE COLLECTION SERVICE",
+        "img": "./Images/Services/07.jpg",
+        "Room": "null",
+        "description": "Our Hospital doesn’t believe in compromising on health simply due to such deterrents as it is of the firm belief that health is of apex priority. Appreciating the importance of health tests and understanding the need for making diagnostic services user-friendly, to ensure that high-quality health care becomes more accessible to the community ",
+        "stuff": 5
+    },
+    {
+        "id": 8,
+        "name": "INVESTIGATION",
+        "img": "./Images/Services/08.jpg",
+        "Room": 306,
+        "description": "Laboratory (Pathology)-Specimen collection at Ground Floor.Radiology & Imaging-MRI, CT Scan, X Ray, Ultrasonography,Digital Mammography-At Ground Floor (Radiology & Imaging Department)",
+        "stuff": 12
+    },
+    {
+        "id": 9,
+        "name": "STROKE CENTRE",
+        "img": "./Images/Services/09.jpg",
+        "Room": 407,
+        "description": "24 hour dedicated stroke team with neurologist, neurosurgeon, radiologist, emergency department and other healthcare professionals who are able to diagnose and treat a stroke during the critical 3-4.5 hour window and deliver the clot busting agent tissue plasminogen activator (TPA) to save brain cells",
+        "stuff": 15
+    },
+    {
+        "id": 10,
+        "name": "PHARMACY",
+        "img": "./Images/Services/10.jpg",
+        "Room": 108,
+        "description": "Peoples Care Hospital Pharmacy Department has placed a leading role in implementing advanced clinical pharmacist patient care services in United Hospital where pharmacists work collaboratively with nurses and physicians directly on patient care areas to review medication orders and manage drug therapy",
+        "stuff": 4
+    }
+]

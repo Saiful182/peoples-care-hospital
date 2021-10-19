@@ -1,12 +1,12 @@
-.home-service-container,.home-department-container{
+.home-facility-container,.home-service-container{
   margin: 20px 0;
   padding: 20px;
 }
-.services-link{
+.services-link,.facilities-link{
     margin:20px 0;
     text-align: center;
 }
-.services-link a {
+.facilities-link a {
     padding: 10px;
     text-decoration: none;
     color:black;
