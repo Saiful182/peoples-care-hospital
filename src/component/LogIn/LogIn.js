@@ -57,7 +57,7 @@ const LogIn = () => {
                 <Button variant="primary" type="submit">
                     Submit
                 </Button>
-                <p>or log in with <Button onClick={signInUsingGoogle}>Google</Button> </p>
+                <p>or log in with <Button onClick={signInUsingGoogle} >Google</Button> </p>
                 <p>{error}</p>
 
                 <p>New user? <Link to="/registration">Register</Link> now .</p>
