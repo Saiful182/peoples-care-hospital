@@ -10,6 +10,8 @@ import SixServices from './SixServices/SixServices';
 
 import useServices from '../hooks/useServices';
 import useFecilities from '../hooks/useFacilities';
+import useDoctors from '../hooks/useDoctors';
+import HomeDoctors from './HomeDoctors/HomeDoctors';
 
 const Home = () => {
     const [fecilities] = useFecilities();
@@ -17,6 +19,9 @@ const Home = () => {
 
     const [services] = useServices();
     const sixServices = services.slice(0, 6);
+
+    const [doctors] = useDoctors();
+    const threeDoctors = doctors.slice(0, 3);
 
     return (
         <div>
@@ -43,6 +48,16 @@ const Home = () => {
                 </Row>
 
                 <h4 className="facilities-link "> <Link className="btn btn-outline-info" to="/othersfecilities">See More Facilities</Link></h4>
+            </div>
+            <div className="home-facility-container">
+                <h3 className="facilities-link">Our Others Facilities I You May Like To Cheak</h3>
+                <Row xs={1} md={2} lg={3} className="g-4">
+                    {
+                        threeDoctors.map(doctor => <HomeDoctors doctor={doctor} key={doctor.id}></HomeDoctors>)
+                    }
+                </Row>
+
+                <h4 className="facilities-link "> <Link className="btn btn-outline-info" to="/consultant">See More Doctors</Link></h4>
             </div>
         </div>
     );

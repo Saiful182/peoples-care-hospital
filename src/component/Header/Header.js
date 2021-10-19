@@ -20,7 +20,7 @@ const Header = () => {
                             <NavLink as={Link} to="/">Home</NavLink>
                             <NavLink as={Link} to="/services">Services</NavLink>
                             <NavLink as={Link} to="/othersfecilities">Others Facilities</NavLink>
-                            <NavLink as={Link} to="/consultant">Consultants</NavLink>
+                            <NavLink as={Link} to="/consultants">Consultants</NavLink>
                             <NavLink as={Link} to="/about">About</NavLink>
                         </Navbar.Collapse>
                     </Nav>
@@ -29,7 +29,7 @@ const Header = () => {
                         <NavLink as={Link} className="nav-login" to="/login">Login</NavLink>
 
                         {
-                            user.email && <NavLink>Hi {user.displayName}</NavLink>
+                            user.email && <NavLink> Hi {user.displayName}</NavLink>
                         }
 
                         {

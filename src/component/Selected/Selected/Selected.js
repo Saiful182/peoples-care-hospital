@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from 'react';
-import { Button, Card, Col, Row } from 'react-bootstrap';
+import { Card, Col, Row } from 'react-bootstrap';
 
 import { useParams } from 'react-router';
 import { Link } from 'react-router-dom';
+import useFirebase from '../../hooks/useFirebase';
 import './selected.css';
 
 const Selected = () => {
+    const { user } = useFirebase();
     const { serviceId } = useParams();
     const [services, setServices] = useState([])
 
@@ -23,7 +25,6 @@ const Selected = () => {
     }, [services]);
 
 
-    // const { img, degree, position, chamber, medicalHistory, visitTime } = selected.eletedConsultant1;
 
 
     return (
@@ -56,7 +57,9 @@ const Selected = () => {
                                 <Card.Text>
                                     Chamber: {selected?.reletedConsultant1?.chamber}
                                 </Card.Text>
-                                <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
+                                {
+                                    user.email ? <Link className="btn btn-outline-info" to="/success">Set Appoinment</Link> : <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
+                                }
                             </Card.Body>
                         </Card>
                     </Col>
@@ -80,7 +83,9 @@ const Selected = () => {
                                 <Card.Text>
                                     Chamber: {selected?.reletedConsultant2?.chamber}
                                 </Card.Text>
-                                <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
+                                {
+                                    user.email ? <Link className="btn btn-outline-info" to="/success">Set Appoinment</Link> : <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
+                                }
                             </Card.Body>
                         </Card>
                     </Col>
@@ -104,7 +109,9 @@ const Selected = () => {
                                 <Card.Text>
                                     Chamber: {selected?.reletedConsultant3?.chamber}
                                 </Card.Text>
-                                <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
+                                {
+                                    user.email ? <Link className="btn btn-outline-info" to="/success">Set Appoinment</Link> : <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
+                                }
                             </Card.Body>
                         </Card>
                     </Col>
@@ -128,7 +135,9 @@ const Selected = () => {
                                 <Card.Text>
                                     Chamber: {selected?.reletedConsultant4?.chamber}
                                 </Card.Text>
-                                <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
+                                {
+                                    user.email ? <Link className="btn btn-outline-info" to="/success">Set Appoinment</Link> : <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
+                                }
 
                             </Card.Body>
                         </Card>

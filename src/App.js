@@ -9,10 +9,11 @@ import Header from './component/Header/Header';
 import Home from './component/Home/Home';
 import LogIn from './component/LogIn/LogIn';
 import OthersFecilities from './component/OthersFecilities/OthersFesilities';
-import Consultant from './component/Consultant/Consultant';
+import Consultants from './component/Consultants/Consultants';
 import Services from './component/Services/Services';
 import Selected from './component/Selected/Selected/Selected';
 import Registration from './component/Registration/Registration';
+import Success from './component/Success/Success';
 
 
 
@@ -34,8 +35,8 @@ function App() {
           <Route exact path="/services">
             <Services></Services>
           </Route>
-          <Route exact path="/consultant">
-            <Consultant></Consultant>
+          <Route exact path="/consultants">
+            <Consultants></Consultants>
           </Route><Route exact path="/about">
             <AboutUs></AboutUs>
           </Route>
@@ -44,6 +45,9 @@ function App() {
           </Route>
           <Route exact path="/registration">
             <Registration></Registration>
+          </Route>
+          <Route exact path="/success">
+            <Success></Success>
           </Route>
           <Route path="/selected/:serviceId">
             <Selected></Selected>

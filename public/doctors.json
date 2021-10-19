@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Benny Greene",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Department Head",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 101,
+        "img": "./Images/Doctors/01.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 211
+    },
+    {
+        "name": "Marsha Caldwell",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Senior Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 102,
+        "img": "./Images/Doctors/02.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 212
+    },
+    {
+        "name": "Amanda Wise",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 103,
+        "img": "./Images/Doctors/03.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 213
+    },
+    {
+        "name": "Marie Johnston",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 104,
+        "img": "./Images/Doctors/04.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 214
+    },
+    {
+        "name": "Wilson Valdez",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Department Head",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 201,
+        "img": "./Images/Doctors/05.jpeg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 215
+    },
+    {
+        "name": "Audrey Douglas",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Senior Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 202,
+        "img": "./Images/Doctors/06.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 216
+    },
+    {
+        "name": "Cindy Green",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 203,
+        "img": "./Images/Doctors/07.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 217
+    },
+    {
+        "name": "Candice Lewis",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 204,
+        "img": "./Images/Doctors/08.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 218
+    },
+    {
+        "name": "Alice Obrien",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Department Head",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 301,
+        "img": "./Images/Doctors/09.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 207
+    },
+    {
+        "name": "Ruben Gutierrez",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Senior Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 302,
+        "img": "./Images/Doctors/10.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 206
+    },
+    {
+        "name": "Diana Butle",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 303,
+        "img": "./Images/Doctors/11.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 326
+    },
+    {
+        "name": "Rolando Moody",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 304,
+        "img": "./Images/Doctors/12.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 325
+    },
+    {
+        "name": "Annette Norris",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Department Head",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 401,
+        "img": "./Images/Doctors/13.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 324
+    },
+    {
+        "name": "Roger Russell",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 402,
+        "img": "./Images/Doctors/14.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 323
+    },
+    {
+        "name": "Lola Wheeler",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Senior Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 403,
+        "img": "./Images/Doctors/15.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 322
+    },
+    {
+        "name": "Melba Becker",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 404,
+        "img": "./Images/Doctors/16.jpeg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 321
+    },
+    {
+        "name": "Milton Reyes",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Department Head",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 501,
+        "img": "./Images/Doctors/17.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 320
+    },
+    {
+        "name": "Leticia Cole",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Senior Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 502,
+        "img": "./Images/Doctors/18.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 319
+    },
+    {
+        "name": "Robin Andrews",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 503,
+        "img": "./Images/Doctors/19.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 318
+    },
+    {
+        "name": "Delores Lawson",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 504,
+        "img": "./Images/Doctors/20.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 317
+    },
+    {
+        "name": "Jodi Bennett",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Department Head",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 601,
+        "img": "./Images/Doctors/21.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 316
+    },
+    {
+        "name": "Dorothy Lane",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Senior Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 602,
+        "img": "./Images/Doctors/22.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 315
+    },
+    {
+        "name": "Crystal Mann",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 603,
+        "img": "./Images/Doctors/23.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 314
+    },
+    {
+        "name": "Blake Fitzgerald",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 604,
+        "img": "./Images/Doctors/24.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 313
+    },
+    {
+        "name": "Pamela Todd",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Department Head",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 701,
+        "img": "./Images/Doctors/25.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 312
+    },
+    {
+        "name": "Dan Fisher",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Senior Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 702,
+        "img": "./Images/Doctors/26.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 311
+    },
+    {
+        "name": "Vanessa Willis",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 703,
+        "img": "./Images/Doctors/27.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 310
+    },
+    {
+        "name": "Beatrice Jenkins",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 704,
+        "img": "./Images/Doctors/28.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 309
+    },
+    {
+        "name": "Sergio Mack",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Department Head",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 801,
+        "img": "./Images/Doctors/29.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 308
+    },
+    {
+        "name": "Shari Riley",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Senior Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 802,
+        "img": "./Images/Doctors/30.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 307
+    },
+    {
+        "name": "Brendan Pratt",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 803,
+        "img": "./Images/Doctors/31.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 305
+    },
+    {
+        "name": "Darin Bradley",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 804,
+        "img": "./Images/Doctors/32.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 305
+    },
+    {
+        "name": "Malcolm Sharp",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Senior Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 901,
+        "img": "./Images/Doctors/33.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 427
+    },
+    {
+        "name": "Sheldon Banks",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Department Head",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 902,
+        "img": "./Images/Doctors/34.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 426
+    },
+    {
+        "name": "Earnest Hunt",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 903,
+        "img": "./Images/Doctors/35.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 425
+    },
+    {
+        "name": "Franklin Day",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 904,
+        "img": "./Images/Doctors/36.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 424
+    },
+    {
+        "name": "Gregory Schmidt",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Department Head",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 1001,
+        "img": "./Images/Doctors/37.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 413
+    },
+    {
+        "name": "Gene Dunn",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Senior Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 1002,
+        "img": "./Images/Doctors/38.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 412
+    },
+    {
+        "name": "Margarita Hansen",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 1003,
+        "img": "./Images/Doctors/39.jpg",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 411
+    },
+    {
+        "name": "Jeff White",
+        "degree": "MBBS, MCPS (Obstetrics and Gynaecology), MS (Obstetrics and Gynaecology)",
+        "position": "Consultant",
+        "medicalHistory": "1.May 25th to June 25th 1999: Attended in an Xlll international Gnotobiological Conference as a Key note lecturer, held in Stockholm, Sweden. 2. March 9-14th 1998: Participated as a Visiting Lecturer in a Graduate Course on Ecology and the importance of the Gastrointestinal Micro flora, organized by Section of Medical Microbial Ecology, at Karolinska Institute, Stockholm, Sweden. 3.September 1996: Joined as Research Associate and Honorary Consultant in the Department of Gastroenterology and Hepatobiliary and Pancreatic Disorders, BIRDEM Hospital, Dhaka, Bangladesh. 4.June 1988 to February 1989: Promoter Director, Delta Medical Center Dhaka, Bangladesh. 5.July 1981 to June 1988: Medical Officer and Residential Medical Officer (RMO), Shaheed Rahimi Hospital, Lorestan, Iran.",
+        "id": 1004,
+        "img": "./Images/Doctors/40.png",
+        "visitTime": "5 PM-10 PM Execpt Friday",
+        "chamber": 410
+    }
+]
