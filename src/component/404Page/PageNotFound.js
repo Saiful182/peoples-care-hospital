@@ -1,9 +1,11 @@
 import React from 'react';
+import image from "../../7iJR.gif";
+import './PageNotFound.css'
 
 const PageNotFound = () => {
     return (
         <div>
-            <h3>404</h3>
+            <img className="image" src={image} alt="" />
         </div>
     );
 };
