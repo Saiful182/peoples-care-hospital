@@ -1,9 +1,11 @@
 import React from 'react';
-import { Card, Col } from 'react-bootstrap';
+import { Button, Card, Col } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
+
 import './SixServices.css'
 
 const SixServices = (props) => {
-    let { name, img, totalDr, description, departmentHead } = props.service;
+    let { id, name, img, totalDr, description, departmentHead } = props.service;
 
     return (
 
@@ -22,6 +24,7 @@ const SixServices = (props) => {
                         {description}
                     </Card.Text>
                 </Card.Body>
+                <Link className="btn btn-outline-info" to={`/selected/${id}`}>More Information</Link>
             </Card>
         </Col>
     );

@@ -4,7 +4,7 @@ import React from 'react';
 import Banner from './Banner/Banner';
 import HomeFecility from './Fecility/HomeFecility';
 import './Home.css';
-import { Row } from 'react-bootstrap';
+import { Button, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import SixServices from './SixServices/SixServices';
 
@@ -42,7 +42,7 @@ const Home = () => {
                     }
                 </Row>
 
-                <h4 className="facilities-link"><Link to="/facilities">See More Facilities</Link></h4>
+                <h4 className="facilities-link "> <Link className="btn btn-outline-info" to="/othersfecilities">See More Facilities</Link></h4>
             </div>
         </div>
     );

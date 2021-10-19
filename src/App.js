@@ -11,6 +11,10 @@ import LogIn from './component/LogIn/LogIn';
 import OthersFecilities from './component/OthersFecilities/OthersFesilities';
 import Consultant from './component/Consultant/Consultant';
 import Services from './component/Services/Services';
+import Selected from './component/Selected/Selected/Selected';
+import Registration from './component/Registration/Registration';
+
+
 
 function App() {
   return (
@@ -37,6 +41,12 @@ function App() {
           </Route>
           <Route exact path="/login">
             <LogIn></LogIn>
+          </Route>
+          <Route exact path="/registration">
+            <Registration></Registration>
+          </Route>
+          <Route path="/selected/:serviceId">
+            <Selected></Selected>
           </Route>
           <Route exact path="*">
             <PageNotFound></PageNotFound>

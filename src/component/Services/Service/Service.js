@@ -1,9 +1,12 @@
-import React from 'react';
+import React, { createContext } from 'react';
 import { Card, Col } from 'react-bootstrap';
-
+import { Link } from 'react-router-dom';
 const Service = (props) => {
-    let { name, img, totalDr, description, departmentHead } = props.department;
+
+    let { id, name, img, totalDr, description, departmentHead } = props.service;
+
     return (
+
 
         <Col>
             <Card>
@@ -20,8 +23,12 @@ const Service = (props) => {
                         {description}
                     </Card.Text>
                 </Card.Body>
+
+                <Link className="btn btn-outline-info" to={`/selected/${id}`}>See More Facilities</Link>
+
             </Card>
         </Col>
+
     );
 };
 

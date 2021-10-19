@@ -2,7 +2,7 @@ import React from 'react';
 import { Row } from 'react-bootstrap';
 import useFeclities from '../hooks/useFacilities';
 
-import OtherFecility from './OtherFecility/OtherFecilty';
+import OtherFecility from './OthersFecility/OtherFecilty';
 
 import './OthersFecilities.css';
 
