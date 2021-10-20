@@ -12,14 +12,9 @@ const useFirebase = () => {
     const auth = getAuth();
     const googleProvider = new GoogleAuthProvider();
     const signInUsingGoogle = () => {
-        return signInWithPopup(auth, googleProvider)
-            .then(result => {
-                setUser(result.user);
-            })
-            .catch(error => {
-                setError(error.massage)
-            })
+        return signInWithPopup(auth, googleProvider);
     }
+
     const logInwithPassAndEmail = () => {
         signInWithEmailAndPassword(auth, email, password)
             .then((result) => {
@@ -74,4 +69,5 @@ const useFirebase = () => {
         user, logout, error, signInUsingGoogle, password, setPassword, setError, email, setEmail, logInwithPassAndEmail, setName, registration
     }
 }
+
 export default useFirebase;

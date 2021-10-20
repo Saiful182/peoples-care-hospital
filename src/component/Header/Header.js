@@ -26,7 +26,10 @@ const Header = () => {
                     </Nav>
 
                     <Nav>
-                        <NavLink as={Link} className="nav-login" to="/login">Login</NavLink>
+                        {
+                            !user.email && <NavLink as={Link} className="nav-login" to="/login">Login</NavLink>
+                        }
+
 
                         {
                             user.email && <NavLink> Hi {user.displayName}</NavLink>
