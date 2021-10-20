@@ -1,10 +1,13 @@
 import './registration.css';
-
-import { Link } from 'react-router-dom';
+import { Link, useLocation, useHistory } from 'react-router-dom';
 import useAuth from '../hooks/useAuth';
 
 const Registration = () => {
-    const { setName, setEmail, setPassword, registration, password, error, setError } = useAuth()
+    const { setName, setEmail, setPassword, registration, password, error, setUserName, setError } = useAuth()
+
+    const location = useLocation();
+    const history = useHistory();
+    const redirect_uri = location.state?.from || '/home';
     const handeleNameChange = e => {
         setName(e.target.value);
     }
@@ -23,7 +26,17 @@ const Registration = () => {
             setError('Password Should be more then 6 charecter');
             return;
         }
-        registration();
+        registration()
+            .then((result) => {
+                const user = result.user;
+                setError('');
+                setUserName();
+                history.push(redirect_uri);
+                console.log(user);
+            }).catch((error) => {
+                const errorMessage = error.message
+                setError(errorMessage);
+            });
 
     }
 

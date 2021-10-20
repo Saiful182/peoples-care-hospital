@@ -6,7 +6,7 @@ import "./login.css";
 import useAuth from '../hooks/useAuth';
 
 const LogIn = () => {
-    const { signInUsingGoogle, setEmail, setUser, setPassword, error, logInwithPassAndEmail } = useAuth();
+    const { signInUsingGoogle, setEmail, setError, setUser, setPassword, error, logInwithPassAndEmail } = useAuth();
     const location = useLocation();
     const history = useHistory();
     const redirect_uri = location.state?.from || '/home';
@@ -20,18 +20,27 @@ const LogIn = () => {
     }
     const handelGoogleLogIn = () => {
         signInUsingGoogle()
-
             .then(result => {
-
+                setUser(result.user)
                 history.push(redirect_uri);
-
-            })
+            }).catch((error) => {
+                setError(error.message);
+            });
 
     }
 
     const handelLogin = e => {
         e.preventDefault();
-        logInwithPassAndEmail();
+        logInwithPassAndEmail()
+            .then((result) => {
+                history.push(redirect_uri);
+                setUser(result.user)
+                setError('');
+
+            })
+            .catch((error) => {
+                setError(error.message);
+            });
 
     }
     return (

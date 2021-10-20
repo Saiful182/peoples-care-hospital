@@ -1,6 +1,6 @@
 # Peoples Care Hospital
 
-live site link:https://peoples-care-hospital.firebaseapp.com/
+live site link:https://peoples-care-hospital.web.app/
 
 ## Site Made for
 

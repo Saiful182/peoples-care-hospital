@@ -2,6 +2,9 @@ import { useEffect, useState } from "react"
 import initializedAuthentication from "../../Firebase/firebase.initialize";
 import { getAuth, signInWithPopup, GoogleAuthProvider, onAuthStateChanged, signOut, signInWithEmailAndPassword, createUserWithEmailAndPassword, updateProfile } from "firebase/auth";
 
+
+
+
 initializedAuthentication();
 const useFirebase = () => {
     const [user, setUser] = useState({});
@@ -16,30 +19,15 @@ const useFirebase = () => {
     }
 
     const logInwithPassAndEmail = () => {
-        signInWithEmailAndPassword(auth, email, password)
-            .then((result) => {
+        return signInWithEmailAndPassword(auth, email, password);
 
-                const user = result.user;
-                console.log(user);
-                setError('');
-            })
-            .catch((error) => {
-                setError(error.message);
-            });
 
     }
     const registration = () => {
 
-        createUserWithEmailAndPassword(auth, email, password)
-            .then((result) => {
-                const user = result.user;
-                setError('');
-                setUserName();
-                console.log(user);
-            }).catch((error) => {
-                const errorMessage = error.message
-                setError(errorMessage);
-            });
+
+        return createUserWithEmailAndPassword(auth, email, password)
+
     };
     const setUserName = () => {
         updateProfile(auth.currentUser, { displayName: name })
@@ -66,7 +54,7 @@ const useFirebase = () => {
         return () => unsuscribed;
     })
     return {
-        user, logout, error, signInUsingGoogle, password, setPassword, setError, email, setEmail, logInwithPassAndEmail, setName, registration
+        user, logout, error, signInUsingGoogle, password, setPassword, setError, email, setEmail, logInwithPassAndEmail, setName, registration, setUser, setUserName
     }
 }
 
