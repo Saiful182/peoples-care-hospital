@@ -1,11 +1,12 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import useFirebase from '../../hooks/useFirebase';
+import useAuth from '../../hooks/useAuth';
+
 
 
 const Consultant = (props) => {
-    const { user } = useFirebase();
+    const { user } = useAuth();
     const { name, img, position, degree, visitTime, chamber } = props.doctor;
     return (
         <Col>

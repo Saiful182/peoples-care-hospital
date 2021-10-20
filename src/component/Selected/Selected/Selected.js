@@ -3,11 +3,12 @@ import { Card, Col, Row } from 'react-bootstrap';
 
 import { useParams } from 'react-router';
 import { Link } from 'react-router-dom';
-import useFirebase from '../../hooks/useFirebase';
+
+
 import './selected.css';
 
 const Selected = () => {
-    const { user } = useFirebase();
+
     const { serviceId } = useParams();
     const [services, setServices] = useState([])
 
@@ -38,7 +39,7 @@ const Selected = () => {
                 <Row md={1} lg={2} className="g-4">
 
                     <Col>
-                        <Card>
+                        <Card className="selectedCard">
 
                             <Card.Body>
                                 <Card.Title>Doctor Name :{selected?.reletedConsultant1?.name} </Card.Title>
@@ -57,14 +58,12 @@ const Selected = () => {
                                 <Card.Text>
                                     Chamber: {selected?.reletedConsultant1?.chamber}
                                 </Card.Text>
-                                {
-                                    user.email ? <Link className="btn btn-outline-info" to="/success">Set Appoinment</Link> : <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
-                                }
+                                <Link className="btn btn-outline-info" to="/success"  >Set Appoinment</Link>
                             </Card.Body>
                         </Card>
                     </Col>
                     <Col>
-                        <Card>
+                        <Card className="selectedCard">
 
                             <Card.Body>
                                 <Card.Title>Doctor Name :{selected?.reletedConsultant2?.name} </Card.Title>
@@ -83,14 +82,12 @@ const Selected = () => {
                                 <Card.Text>
                                     Chamber: {selected?.reletedConsultant2?.chamber}
                                 </Card.Text>
-                                {
-                                    user.email ? <Link className="btn btn-outline-info" to="/success">Set Appoinment</Link> : <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
-                                }
+                                <Link className="btn btn-outline-info" to="/success" >Set Appoinment</Link>
                             </Card.Body>
                         </Card>
                     </Col>
                     <Col>
-                        <Card>
+                        <Card className="selectedCard">
 
                             <Card.Body>
                                 <Card.Title>Doctor Name :{selected?.reletedConsultant2?.name} </Card.Title>
@@ -109,14 +106,12 @@ const Selected = () => {
                                 <Card.Text>
                                     Chamber: {selected?.reletedConsultant3?.chamber}
                                 </Card.Text>
-                                {
-                                    user.email ? <Link className="btn btn-outline-info" to="/success">Set Appoinment</Link> : <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
-                                }
+                                <Link className="btn btn-outline-info" to="/success"  >Set Appoinment</Link>
                             </Card.Body>
                         </Card>
                     </Col>
                     <Col>
-                        <Card>
+                        <Card className="selectedCard">
 
                             <Card.Body>
                                 <Card.Title>Doctor Name :{selected?.reletedConsultant4?.name} </Card.Title>
@@ -135,9 +130,7 @@ const Selected = () => {
                                 <Card.Text>
                                     Chamber: {selected?.reletedConsultant4?.chamber}
                                 </Card.Text>
-                                {
-                                    user.email ? <Link className="btn btn-outline-info" to="/success">Set Appoinment</Link> : <Link className="btn btn-outline-info" to="/login">Set Appoinment</Link>
-                                }
+                                <Link className="btn btn-outline-info" to="/success"  >Set Appoinment</Link>
 
                             </Card.Body>
                         </Card>

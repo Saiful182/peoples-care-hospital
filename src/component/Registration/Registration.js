@@ -3,9 +3,8 @@ import './registration.css';
 import { Link } from 'react-router-dom';
 import useAuth from '../hooks/useAuth';
 
-
 const Registration = () => {
-    const { setName, setEmail, setPassword, registration, setUserName, password, error, setError } = useAuth()
+    const { setName, setEmail, setPassword, registration, password, error, setError } = useAuth()
     const handeleNameChange = e => {
         setName(e.target.value);
     }

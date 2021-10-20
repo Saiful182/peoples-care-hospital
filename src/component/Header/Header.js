@@ -3,11 +3,11 @@ import React from 'react';
 import { Button, Container, Nav, Navbar, NavLink } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import logo from '../../Images/logo.svg'
-import useFirebase from '../hooks/useFirebase';
+import useAuth from '../hooks/useAuth';
 import './header.css';
 
 const Header = () => {
-    const { user, logout } = useFirebase();
+    const { user, logout } = useAuth();
     return (
         <div>
             <Navbar collapseOnSelect expand="lg" bg="info" variant="dark">
@@ -33,7 +33,7 @@ const Header = () => {
                         }
 
                         {
-                            user.email && <Button onClick={logout}>Logout</Button>
+                            user.email && <NavLink onClick={logout}>Logout</NavLink>
                         }
 
                     </Nav>

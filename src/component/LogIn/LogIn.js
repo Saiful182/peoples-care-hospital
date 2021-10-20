@@ -1,12 +1,13 @@
 import React from 'react';
 import { Button, Form } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import "./login.css";
 
 import useAuth from '../hooks/useAuth';
 
 const LogIn = () => {
     const { signInUsingGoogle, setEmail, setPassword, error, logInwithPassAndEmail } = useAuth();
+    const location = useLocation();
 
     const handeleEmailChange = e => {
         setEmail(e.target.value);
