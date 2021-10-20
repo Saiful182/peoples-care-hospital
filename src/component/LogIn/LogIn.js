@@ -1,17 +1,12 @@
-import React, { useState } from 'react';
-import { Button, Col, Form, Row } from 'react-bootstrap';
+import React from 'react';
+import { Button, Form } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import useFirebase from '../hooks/useFirebase';
-import "./login.css"
-import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
+import "./login.css";
+
+import useAuth from '../hooks/useAuth';
 
 const LogIn = () => {
-    const { signInUsingGoogle } = useFirebase();
-    const [email, setEmail] = useState('');
-    const [password, setPassword] = useState('');
-    const [error, setError] = useState('');
-
-
+    const { signInUsingGoogle, setEmail, setPassword, error, logInwithPassAndEmail } = useAuth();
 
     const handeleEmailChange = e => {
         setEmail(e.target.value);
@@ -20,23 +15,9 @@ const LogIn = () => {
         setPassword(e.target.value);
 
     }
-
     const handelLogin = e => {
         e.preventDefault();
-        const auth = getAuth();
-
-        signInWithEmailAndPassword(auth, email, password)
-            .then((result) => {
-
-                const user = result.user;
-
-                setError('');
-            })
-            .catch((error) => {
-                setError(error.message);
-            });
-
-
+        logInwithPassAndEmail();
 
     }
     return (

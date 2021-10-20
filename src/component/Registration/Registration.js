@@ -1,67 +1,36 @@
 import './registration.css';
-import React, { useState } from 'react';
+
 import { Link } from 'react-router-dom';
-import { getAuth, createUserWithEmailAndPassword, updateProfile } from "firebase/auth";
-const auth = getAuth();
+import useAuth from '../hooks/useAuth';
+
 
 const Registration = () => {
-    const [email, setEmail] = useState('');
-    const [name, setName] = useState('');
-    const [password, setPassword] = useState('');
-    const [error, setError] = useState('');
-
-
-
+    const { setName, setEmail, setPassword, registration, setUserName, password, error, setError } = useAuth()
     const handeleNameChange = e => {
         setName(e.target.value);
     }
-
     const handeleEmailChange = e => {
         setEmail(e.target.value);
     }
     const handelePasswordChange = e => {
         setPassword(e.target.value);
 
+
     }
-    const handleRegistration = e => {
+    const handleNewRegistration = e => {
         e.preventDefault();
+
         if (password.length < 6) {
             setError('Password Should be more then 6 charecter');
             return;
         }
-
-
-        createUserWithEmailAndPassword(auth, email, password)
-            .then((result) => {
-
-                const user = result.user;
-                setError('');
-                setUserName();
-                console.log(user);
-
-            }).catch((error) => {
-                const errorMessage = error.message
-                setError(errorMessage);
-
-
-            });
+        registration();
 
     }
-    const setUserName = () => {
-        updateProfile(auth.currentUser, { displayName: name })
-            .then((result) => {
 
-                setError('');
-            }).catch((error) => {
-                setError(error);
-            }
-
-
-            )
-    }
     return (
         <div className="registration-area" >
-            <form onClick={handleRegistration}>
+            <form onClick={handleNewRegistration}>
                 <div className="mb-3">
                     <label className="form-label">Type Your Name</label>
                     <input onBlur={handeleNameChange} type="text" className="form-control" id="type Your name" required />

@@ -1,6 +1,6 @@
 # Peoples Care Hospital
 
-live site link:https://affectionate-almeida-b26286.netlify.app/
+live site link:https://peoples-care-hospital.firebaseapp.com/
 
 ## Site Made for
 
